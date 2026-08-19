@@ -1,0 +1,8 @@
+{
+  "name": "Homely Custom - Interior Design & Space Planning",
+  "description": "Comprehensive interior architecture suite featuring 2D CAD blueprints, 3D WebGL spatial orbit with 24-hour day/night solar lighting simulation, eye-level walkthroughs, custom architectural openings (doors & windows), build-from-scratch studio, and multi-brand checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
